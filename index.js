@@ -5,3 +5,5 @@ return console.log('hello I am a function')
 }
 
 hello()
+
+console.log("everything is okay")
